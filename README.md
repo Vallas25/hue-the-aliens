@@ -12,4 +12,4 @@ you can change the names of the lamps you want to flicker in the quotation marks
 
 once you enterd the ip and the name of the lamps press on the round button in the middle, within 30 seconds the program has to run to find the bridge.
 
-after the first run you can delete te 10th lint, b.connect()
+after the first run you can delete te 10th line, b.connect()
